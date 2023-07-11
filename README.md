@@ -1,2 +1,1 @@
-# pre-curso-henry
-este es un ropo de prueba del Pre curso de Henry
+este proyecto es una prueba de como crear un repositorio y clonarlo dese github a el computador.
